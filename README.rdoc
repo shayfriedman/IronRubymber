@@ -1,0 +1,23 @@
+== Welcome to IronRubymber
+IronRubymber is a C# console application, ready with everything you need in order to test your .NET code with {Cucumber}[https://github.com/aslakhellesoy/cucumber].
+
+There's no installation needed. It includes all the needed IronRuby executables, cucumber libraries and the required dependencies.
+
+== Where are the Tests?
+The cucumber features and step definitions can be found within the project inside the {features}[link:IronRubymber/features] directory.
+
+The project comes with a sample spec. Just delete it and put your files there.
+
+== Main Libraries Included in the Bundle
+* {IronRuby 1.1.2}[https://github.com/IronLanguages/main]
+* {Cucumber 0.6.4}[https://github.com/aslakhellesoy/cucumber]
+
+=== A Word on the Included Cucumber Version
+Cucumber 0.6.4 is included in this bundle, which is quite an old version. 
+The main (and only...) reason for that is because IronRuby doesn't work well with newer versions at the moment.
+
+== That's It!
+Download, add to your project and start using Cucumber to test your .NET code!
+Feel free to fork, enhance, pull request, change, update, delete, eat, drink and so on. 
+
+Don't hesitate to contact me with issues/ideas/whatever - shay at ironshay dot com.
