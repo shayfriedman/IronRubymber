@@ -4,7 +4,7 @@ IronRubymber is a C# console application, ready with everything you need in orde
 There's no installation needed. It includes all the needed IronRuby executables, cucumber libraries and the required dependencies.
 
 == Where are the Tests?
-The cucumber features and step definitions can be found within the project inside the {features}[link:IronRubymber/features] directory.
+The cucumber features and step definitions can be found within the project inside the <i>features</i> directory.
 
 The project comes with a sample spec. Just delete it and put your files there.
 
