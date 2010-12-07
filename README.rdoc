@@ -8,6 +8,12 @@ The cucumber features and step definitions can be found within the project insid
 
 The project comes with a sample spec. Just delete it and put your files there.
 
+== How to use IronRubymber?
+Very simple:
+* Add the IronRubymber project to your solution.
+* Follow the cucumber guidelines and write specs and spec definitions. Take advantage of IronRuby's capabilities to interact with your .NET code. Remember to add the files to the <i>features</i> directory when you're done.
+* Run the project. The test results will appear in a console window.
+
 == Main Libraries Included in the Bundle
 * {IronRuby 1.1.2}[https://github.com/IronLanguages/main]
 * {Cucumber 0.6.4}[https://github.com/aslakhellesoy/cucumber]
@@ -18,6 +24,7 @@ The main (and only...) reason for that is because IronRuby doesn't work well wit
 
 == That's It!
 Download, add to your project and start using Cucumber to test your .NET code!
+
 Feel free to fork, enhance, pull request, change, update, delete, eat, drink and so on. 
 
 Don't hesitate to contact me with issues/ideas/whatever - shay at ironshay dot com.
